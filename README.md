@@ -1,3 +1,5 @@
 # Introduction
 
-A public repository for my shared Anki decks, so that people can contact me if there are any issues or errors. [Please open a ticket if there is an issue, or if you have any suggestions or feedback!](https://github.com/kln-rdn/anki/issues)
+Welcome to the repository of my public Anki decks. To use a deck, you can download the deck directly above, or find the decks on Ankiweb. 
+
+If you find an error or want to make a suggestion,  [please open a ticket to let me know!](https://github.com/kln-rdn/anki-decks/issues)
